@@ -1,0 +1,5 @@
+*.gpx
+*.png
+*.zip
+!doc/*.png
+
